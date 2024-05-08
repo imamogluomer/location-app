@@ -131,7 +131,7 @@ fun LocationDisplay(
 
             )
         } else {
-            Text(text = "Location not available")
+            Text(text = "Location not available.")
 
         }
 
