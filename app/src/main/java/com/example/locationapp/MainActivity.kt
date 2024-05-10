@@ -103,7 +103,7 @@ fun LocationDisplay(
                 } else {
                     Toast.makeText(
                         context,
-                        "Location permission is required. Please enable it in android settings.",
+                        "Location permission is required. Please enable it in Android settings.",
                         Toast.LENGTH_LONG
                     ).show()
                 }
